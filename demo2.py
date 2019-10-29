@@ -9,7 +9,7 @@ def add(x):
     else:
         update.append(x)
 
-
+print("nik")
 if __name__ == "__main__":
     from multiprocessing import Pool
     pool = Pool(4)
